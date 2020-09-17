@@ -35,9 +35,10 @@ _Una vez instalados los **Pre-requisitos** correctamente clona este repositorio_
 $ git clone https://github.com/OsirisRoman/React-Tuto ~/destinationFolder
 ```
 
-_Arranca el servidor_
+_Instalar las dependencias Necesarias y arrancar el servidor_
 
 ```
+$ yarn install
 $ yarn start
 ```
 
