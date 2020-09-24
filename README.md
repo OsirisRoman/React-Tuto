@@ -4,9 +4,9 @@ _Este repositorio viene de un curso de React que decidí seguir..._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia de los proyectos para propósitos de desarrollo y pruebas._
 
-Mira la sección de **Instalación** para conocer como instalarlo.
+Mira la sección de **Instalación** para conocer como instalarlos.
 
 
 ## Pre-requisitos 📋
@@ -34,7 +34,13 @@ _Una vez instalados los **Pre-requisitos** correctamente clona este repositorio_
 $ git clone https://github.com/OsirisRoman/React-Tuto ~/destinationFolder
 ```
 
-_Instalar las dependencias Necesarias y arrancar el servidor_
+_Ve a la carpeta del proyecto de interés_
+
+```
+$ cd proyecto_de_interes
+```
+
+_Instala las dependencias necesarias y arranca el servidor_
 
 ```
 $ yarn install
@@ -47,4 +53,5 @@ $ yarn start
 
 ## Resultado :tada:
 
-Puedes ver el resultado de este repositorio en el siguiente enlace: https://osirisroman.github.io/React-Tuto/
+Puedes ver los resultado de este repositorio en los siguientes enlaces:
+    * Project1-Monsters-Rolodex: https://osirisroman.github.io/React-Tuto/
