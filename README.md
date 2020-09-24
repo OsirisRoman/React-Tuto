@@ -9,25 +9,24 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 Mira la sección de **Instalación** para conocer como instalarlo.
 
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas._
 
-## Node.js
+### Node.js
 
 | Version | Soportado?         |
 | ------- | ------------------ |
 | 12.18.3 | :white_check_mark: |
 | <=12.0  | :x:                |
 
-## React
+### React
 
 |  Version  | Soportado?         |
 |  -------  | ------------------ |
 | >=16.13.1 | :white_check_mark: |
 |  <=16     | :x:                |
 
-### Instalación 🔧
+## Instalación 🔧
 
 _Una vez instalados los **Pre-requisitos** correctamente clona este repositorio_
 
@@ -45,3 +44,7 @@ $ yarn start
 ## Autor ✒️
 
 * **Osiris Román** - [OsirisRoman](https://github.com/OsirisRoman)
+
+## Resultado :tada:
+
+Puedes ver el resultado de este repositorio en el siguiente enlace: https://osirisroman.github.io/React-Tuto/
