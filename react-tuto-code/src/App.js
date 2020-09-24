@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import {CardList} from "./components/card-list/card-list.component"
 import {SearchBox} from "./components/search-box/search-box.component"
+import {WebTitle} from "./components/WebTitle/web-title.component"
 
 import './App.css';
 
@@ -29,6 +30,7 @@ class App extends Component {
       monster.name.toLowerCase().includes(searchField.toLowerCase()))
     return (
       <div className="App">
+        <WebTitle name="Monsters Rolodex"></WebTitle>
         <SearchBox placeholder="Búsqueda de monstruos" handleChange={e => this.setState({searchField: e.target.value})}></SearchBox>
         <CardList monsters={filteredMonsters}/>
       </div>
