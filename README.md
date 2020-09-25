@@ -54,4 +54,4 @@ $ yarn start
 ## Resultado :tada:
 
 Puedes ver los resultado de este repositorio en los siguientes enlaces:
-    * Project1-Monsters-Rolodex: https://osirisroman.github.io/React-Tuto/
+* Project1-Monsters-Rolodex: https://osirisroman.github.io/React-Tuto/
